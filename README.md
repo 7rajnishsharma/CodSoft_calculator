@@ -1,13 +1,11 @@
 # Interactive Web Calculator
 
-![Calculator Preview](https://github.com/7rajnishsharma/calculator/assets/111423953/37bc8753-7490-4a98-af32-75e307189405)
-
 The Interactive Web Calculator is a dynamic web application that allows users to perform basic arithmetic operations. It's a user-friendly and responsive calculator developed as part of an internship project with Codsoft.
 
 
 ## Demo
 
-You can try the calculator live at [Calculator Demo](https://your-calculator-demo-link.com).
+You can try the calculator live at [Calculator Demo](https://7rajnishsharma.github.io/calculator/).
 
 ## Features
 
@@ -23,5 +21,8 @@ You can try the calculator live at [Calculator Demo](https://your-calculator-dem
 - HTML: Used for structuring the web page and creating forms.
 - CSS: Applied for styling and layout.
 - JavaScript: Powers the calculator's logic, user interactions, and real-time calculations.
+
+## Visual representation
+![Calculator Preview](https://github.com/7rajnishsharma/calculator/assets/111423953/37bc8753-7490-4a98-af32-75e307189405)
 
 
