@@ -1,6 +1,6 @@
 # Interactive Web Calculator
 
-The Interactive Web Calculator is a dynamic web application that allows users to perform basic arithmetic operations. It's a user-friendly and responsive calculator developed as part of an internship project with Codsoft.
+The Interactive Web Calculator is a dynamic web application that allows users to perform basic arithmetic operations. It's a user-friendly and responsive calculator developed as part of an internship project with **Codsoft**.
 
 
 ## Demo
