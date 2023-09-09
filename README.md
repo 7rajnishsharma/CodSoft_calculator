@@ -5,7 +5,7 @@ The Interactive Web Calculator is a dynamic web application that allows users to
 
 ## Demo
 
-You can try the calculator live at [Calculator Demo](https://7rajnishsharma.github.io/calculator/).
+You can try the calculator live at [Calculator Demo](https://7rajnishsharma.github.io/CodSoft_calculator/).
 
 ## Features
 
